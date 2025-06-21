@@ -18,3 +18,10 @@ A simple AI-powered legal assistant that explains legal questions in **Hindi or 
 [LiveDemo(https://courtai.netlify.app/)
 
 > ⚠️ This is not official legal advice.
+## 📸 App Screenshots
+
+![Screenshot 1](https://github.com/Amaanbhardwaj/Court-Ai/blob/main/Screenshot_20250620-180548.png?raw=true)
+
+![Screenshot 2](https://github.com/Amaanbhardwaj/Court-Ai/blob/main/Screenshot%202025-06-20%20180425.png?raw=true)
+
+![Screenshot 3](https://github.com/Amaanbhardwaj/Court-Ai/blob/main/Screenshot%202025-06-20%20180256.png?raw=true)
