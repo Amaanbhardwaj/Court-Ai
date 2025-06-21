@@ -15,6 +15,6 @@ A simple AI-powered legal assistant that explains legal questions in **Hindi or 
 - Bolt.new (for prototyping)
 - Netlify (for hosting)
 
-### ke[LiveDemo(https://courtai.netlify.app/)
+[LiveDemo(https://courtai.netlify.app/)
 
 > ⚠️ This is not official legal advice.
